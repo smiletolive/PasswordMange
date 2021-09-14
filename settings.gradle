@@ -1,0 +1,2 @@
+rootProject.name = "PasswordMange"
+include ':app'
